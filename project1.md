@@ -15,7 +15,7 @@ I used Tableau to visualize the information gleaned from the dataset
 
 <img src="images/2.png?raw=true"/>
 
-### 3. Unveling Market Trends
+### 3. Filters
 We can filter the data using the filters below 
 - Day
 - Month,
@@ -25,5 +25,28 @@ We can filter the data using the filters below
 
 <img src="images/3.png?raw=true"/>
 
+### 4. Comprehensive Real Estate Data Analysis Features
 
+# Daily Average House Sales: Monitoring Market Trends
 
+The 'Daily Average House Sales' functionality captures the mean number of houses sold on a daily basis. This metric offers a quick snapshot of the overall market dynamics, revealing fluctuations in demand and supply over time. Analyzing daily sales trends enables us to pinpoint periods of heightened interest or reduced activity, informing strategic investment decisions and market predictions.
+
+# Map: Visualizing Spatial Patterns
+
+The 'Map' feature provides a visual representation of house sales data superimposed on a geographical map. This visualization helps identify geographical patterns in sales activity, highlighting areas with higher or lower concentrations of sales. Analyzing the map yields insights into the influence of location, neighborhood characteristics, and proximity to amenities on house prices.
+
+# Distribution of House Prices: Revealing Price Ranges
+
+The 'Distribution of House Prices' feature presents a graphical depiction of the price distribution within the dataset, often in the form of a histogram. Analyzing this distribution unveils the range of prices and median price. This information is crucial for understanding overall housing affordability in a given area and predicting potential returns on investment across different price brackets.
+
+# View Condition: Evaluating Property Quality
+
+The 'View Condition' feature categorizes house conditions based on preset criteria like 'Excellent,' 'Good,' 'Average,' 'Fair,' or 'Poor.' This information indicates the overall quality and maintenance of properties, significantly influencing their value. Analyzing the distribution of view conditions helps identify areas with a higher concentration of well-maintained properties, which may command higher asking prices.
+
+# Distribution of Bedrooms: Understanding Household Composition
+
+The 'Distribution of Bedrooms' feature reveals the breakdown of houses by the number of bedrooms. This information provides insights into the types of households prevalent in the area and the distribution of different family sizes. Analyzing this distribution helps identify areas with a higher concentration of larger or smaller homes, shaping the overall market mix and catering to specific buyer demographics.
+
+# Distribution of Bathrooms: Assessing Functionality
+
+The 'Distribution of Bathrooms' feature breaks down houses by the number of bathrooms. This information is crucial for assessing the functionality and livability of properties, especially for families with multiple members. Analyzing this distribution helps identify areas with a higher concentration of homes with more bathrooms, appealing to families seeking greater convenience and privacy.
