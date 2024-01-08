@@ -16,5 +16,5 @@ We can filter the data using the filters below
 
 <img src="images/3.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+
 

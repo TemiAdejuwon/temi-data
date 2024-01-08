@@ -32,18 +32,18 @@ Also, I’ll advice to save the file as a new file so that you can also have a c
 <img src="images/excel4.png?raw=true"/>
 
 From the images above , you can see we now have 12 columns
--Gdp_type 
--Activity_sector_group
--Activity_sector
--Q1 2020
--Q2 2020
--Q3 2020
--Q4 2020
--Q1 2021
--Q2 2021
--Q3 2021
--Q4 2021
--Q1 2022
+- Gdp_type 
+- Activity_sector_group
+- Activity_sector
+- Q1 2020
+- Q2 2020
+- Q3 2020
+- Q4 2020
+- Q1 2021
+- Q2 2021
+- Q3 2021
+- Q4 2021
+- Q1 2022
 
 Aside from removing the total and creating new columns, we also edited the quarter columns to include the year.
 As you can see our data is looking a lot better and easier to understand now move on to data cleaning using power query editor. 
@@ -54,9 +54,14 @@ Also, it important to note to convert your excel worksheet for range to Table be
 
 ### 3. Data Cleaning
 
+Now that our data is in a structured format, loading into the power query to continue our data cleaning process is the next step. 
+Also, it is important to convert your data from range to a table before loading into the power query.
+The image below shows the power query interface where we’re going to be applying our transformation. To continue we need to determine what type of transformations need to be performed.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/excel5.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Some of the transformations we are going to be performing are removing numbers from the activity sector, lower casing the text, pivoting the data, and creating proper dates.
+Note: Every step taken to transform the data in shown on the right pane of the editor under Applied steps.
+
+<img src="images/excel6.png?raw=true"/>
