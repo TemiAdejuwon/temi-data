@@ -27,7 +27,9 @@ We can filter the data using the filters below
 
 ### 4. Comprehensive Real Estate Data Analysis Features
 
-# Daily Average House Sales: Monitoring Market Trends
+These are the different dashboards and what I hoped to accomplish with them
+
+# Daily Average House Sales Price: Monitoring Market Trends
 
 The 'Daily Average House Sales' functionality captures the mean number of houses sold on a daily basis. This metric offers a quick snapshot of the overall market dynamics, revealing fluctuations in demand and supply over time. Analyzing daily sales trends enables us to pinpoint periods of heightened interest or reduced activity, informing strategic investment decisions and market predictions.
 
