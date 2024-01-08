@@ -17,6 +17,11 @@ I used Tableau to visualize the information gleaned from the dataset
 
 ### 3. Unveling Market Trends
 We can filter the data using the filters below 
+- Day
+- Month,
+- Range of Year built
+- Range of Square ft Living
+-  Squareft Lot
 
 <img src="images/3.png?raw=true"/>
 
