@@ -32,18 +32,18 @@ Also, I’ll advice to save the file as a new file so that you can also have a c
 <img src="images/excel4.png?raw=true"/>
 
 From the images above , you can see we now have 12 columns
-Gdp_type, 
-Activity_sector_group
-Activity_sector
-Q1 2020
-Q2 2020
-Q3 2020
-Q4 2020
-Q1 2021
-Q2 2021
-Q3 2021
-Q4 2021
-Q1 2022
+-Gdp_type 
+-Activity_sector_group
+-Activity_sector
+-Q1 2020
+-Q2 2020
+-Q3 2020
+-Q4 2020
+-Q1 2021
+-Q2 2021
+-Q3 2021
+-Q4 2021
+-Q1 2022
 
 Aside from removing the total and creating new columns, we also edited the quarter columns to include the year.
 As you can see our data is looking a lot better and easier to understand now move on to data cleaning using power query editor. 
