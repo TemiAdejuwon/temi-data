@@ -1,4 +1,4 @@
-## King County Housing Sales
+## Nigerian GDP Analysis
 
 **Project description:** This project was done to analyze the Nigerian GDP
 
@@ -7,7 +7,7 @@
 
 In this project we will use a dataset from located [here](https://nigerianstat.gov.ng/elibrary/).
 
- [Nigeria GDP Dataset ](/docs/HouseData.xlsx)
+ [Nigeria GDP Dataset ](/docs/GDP_rawdata.xlsx)
 
 The Excel file comprises four sheets. Only the first sheet was required for analysis so the efforts in this project are focused on cleaning and manipulating the data on the first sheet. 
 
