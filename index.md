@@ -6,6 +6,9 @@
 
 This was a project to analyze King County Housing Sales from 2014 - 2015 
 
+You can view a Live Demo of this project [here](https://public.tableau.com/app/profile/temiloluwa.adejuwon/viz/KingCountyHousingSales_17046167950620/KingCountyHouseSales).
+
+
 [Project details here](/project1.md)
 <img src="images/1.png?raw=true"/>
 
