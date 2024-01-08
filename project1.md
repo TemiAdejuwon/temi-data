@@ -18,7 +18,7 @@ I used Tableau to visualize the information gleaned from the dataset
 ### 3. Filters
 We can filter the data using the filters below 
 - Day
-- Month,
+- Month
 - Range of Year built
 - Range of Square ft Living
 -  Squareft Lot
