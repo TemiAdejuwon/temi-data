@@ -41,9 +41,9 @@ The 'Map' feature provides a visual representation of house sales data superimpo
 
 The 'Distribution of House Prices' feature presents a graphical depiction of the price distribution within the dataset, often in the form of a histogram. Analyzing this distribution unveils the range of prices and median price. This information is crucial for understanding overall housing affordability in a given area and predicting potential returns on investment across different price brackets.
 
-# View Condition: Evaluating Property Quality
+# View Vs Condition HeatMap: Evaluating Property Quality
 
-The 'View Condition' feature categorizes house conditions based on preset criteria like 'Excellent,' 'Good,' 'Average,' 'Fair,' or 'Poor.' This information indicates the overall quality and maintenance of properties, significantly influencing their value. Analyzing the distribution of view conditions helps identify areas with a higher concentration of well-maintained properties, which may command higher asking prices.
+The 'View Vs Condition Heatmap' feature categorizes house conditions based on preset criteria like 'Excellent,' 'Good,' 'Average,' 'Fair,' or 'Poor.' This information indicates the overall quality and maintenance of properties, significantly influencing their value. It also categorizes and analyzes the distribution of view conditions which helps identify areas with a higher concentration of well-maintained properties, which may command higher asking prices.
 
 # Distribution of Bedrooms: Understanding Household Composition
 
