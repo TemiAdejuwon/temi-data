@@ -21,7 +21,9 @@ You can view a Live Demo of this project [here](https://public.tableau.com/app/p
 ### Project 2 - Nigerian GDP Analysis
 
 This was a project focused on cleaning and manipulating  Nigerian GDP data
+
 [Project details here](/project2.md)
+
 <img src="images/excel6.png?raw=true"/>
 
 
