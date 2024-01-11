@@ -22,7 +22,7 @@ You can view a Live Demo of this project [here](https://public.tableau.com/app/p
 
 This was a project focused on cleaning and manipulating  Nigerian GDP data
 [Project details here](/project2.md)
-<img src="images/excel1.png?raw=true"/>
+<img src="images/excel6.png?raw=true"/>
 
 
 ---
